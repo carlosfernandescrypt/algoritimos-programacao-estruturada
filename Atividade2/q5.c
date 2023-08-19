@@ -36,7 +36,7 @@ despesas = 30
 total = 100
 
 qual o valor o produto foi vendido? = 150
-lucromercadoria = valorprodutovendido / total (150 / 100) = 15 
-porcentagem = 15 * 10 = 150%
+lucromercadoria = valorprodutovendido / total (150 / 100) = 1.5 
+porcentagem = 1.5 * 100 = 150%
 valordelucro = valorprodutovendido - total
 */
