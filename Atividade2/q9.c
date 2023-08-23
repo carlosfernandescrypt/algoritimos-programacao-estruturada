@@ -20,7 +20,7 @@ int main(void) {
   
   porcentagemImpostos *= 0.01;
   porcentagemDistribuidor *= 0.01;
-  carroNovoConsumidor = custoFabrica + porcentagemDistribuidor + (porcentagemImpostos * custoFabrica);
+  carroNovoConsumidor = custoFabrica + (custoFabrica * porcentagemDistribuidor) + (porcentagemImpostos * custoFabrica);
   
   printf("O custo do carro será de: %.2fR$", carroNovoConsumidor);
 
