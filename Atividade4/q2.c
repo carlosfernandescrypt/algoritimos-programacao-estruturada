@@ -1,4 +1,4 @@
-/* Construa um algoritmo que dado quatro valores, A, B, C e D, o algoritmo imprima o maior e o menor valor. */
+/* 2. Construa um algoritmo que dado quatro valores, A, B, C e D, o algoritmo imprima o maior e o menor valor. */
 
 #include <stdio.h>
 int main(void){
