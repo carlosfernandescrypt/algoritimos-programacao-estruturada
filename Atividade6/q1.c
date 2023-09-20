@@ -1,4 +1,4 @@
-/* 3. Usando o comando switch, faça um algoritmo que leia o número de DDD e informe a qual cidade pertence, considerando só os seguintes valores:  */
+/* 1. Usando o comando switch, faça um algoritmo que leia o número de DDD e informe a qual cidade pertence, considerando só os seguintes valores:  */
 
 #include<stdio.h>
 #include<math.h>
