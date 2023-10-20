@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    int moradores = 5;
+    int moradores = 50;
     char elevador, periodo;
     int contadoresElevadores[3] = {0};
 
