@@ -30,6 +30,5 @@ int main() {
         pow(c, 2) < pow(a, 2) + pow(b, 2)) {
         printf("Triângulo Acutângulo.");
     }
-  return 0;
 }
 
