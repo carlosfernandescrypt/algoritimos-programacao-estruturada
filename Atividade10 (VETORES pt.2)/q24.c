@@ -27,5 +27,4 @@ int main() {
     printf("Aluno mais baixo: %d\nAltura: %.2f\n", aluno_mais_baixo, altura_mais_baixa);
     printf("Aluno mais alto: %d\nAltura: %.2f\n", aluno_mais_alto, altura_mais_alta);
 
-    return 0;
 }
