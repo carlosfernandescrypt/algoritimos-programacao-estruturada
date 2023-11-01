@@ -38,5 +38,4 @@ int main() {
 
     printf("Produto escalar: %.2f\n", produto_escalar);
 
-    return 0;
 }
