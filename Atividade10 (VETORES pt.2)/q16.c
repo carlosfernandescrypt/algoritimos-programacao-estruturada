@@ -1,4 +1,4 @@
-/* 15. Faça um programa que leia um vetor de 5 posições para numeros reais e, depois, um codigo inteiro, se o codigo for zero, finalize o programa, se for 1, mostre o vetor na ordem direta, se for 2, mostre o vetor na ordem inversa, caso o codigo for diferente de 1 e 2, escreva uma mensagem informando que o código é invalido
+/* 16. Faça um programa que leia um vetor de 5 posições para numeros reais e, depois, um codigo inteiro, se o codigo for zero, finalize o programa, se for 1, mostre o vetor na ordem direta, se for 2, mostre o vetor na ordem inversa, caso o codigo for diferente de 1 e 2, escreva uma mensagem informando que o código é invalido
 */
 #include <stdio.h>
 
