@@ -26,5 +26,4 @@ int main() {
 
     printf("Desvio Padrao: %.2f\n", desvio_padrao);
 
-    return 0;
 }
