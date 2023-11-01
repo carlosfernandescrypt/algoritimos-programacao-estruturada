@@ -34,5 +34,4 @@ int main() {
             printf("Codigo invalido.\n");
     }
 
-    return 0;
 }
