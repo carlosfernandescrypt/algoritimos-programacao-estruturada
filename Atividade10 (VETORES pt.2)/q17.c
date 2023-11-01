@@ -1,4 +1,4 @@
-/* 15. Leia um vetor de 10 posições e atribua valor 0 para todos os elemtnos que possuírem valores negativos
+/* 17. Leia um vetor de 10 posições e atribua valor 0 para todos os elemtnos que possuírem valores negativos
 */
 #include <stdio.h>
 
