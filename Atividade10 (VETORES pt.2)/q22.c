@@ -27,5 +27,4 @@ int main() {
         printf("%d ", vetor3[i]);
     }
 
-    return 0;
 }
