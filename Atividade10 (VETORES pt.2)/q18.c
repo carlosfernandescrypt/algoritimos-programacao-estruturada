@@ -26,5 +26,4 @@ int main() {
 
     printf("\nTotal de multiplos de %d: %d\n", x, count);
 
-    return 0;
 }
