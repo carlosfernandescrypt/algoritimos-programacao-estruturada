@@ -20,5 +20,5 @@ int main() {
         printf("%d ", vetor[i]);
     }
 
-    return 0;
+
 }
